@@ -9,7 +9,7 @@ namespace ConsoleApplicationTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("This is second developer.");
         }
     }
 }
