@@ -9,6 +9,7 @@ namespace ConsoleApplicationTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("");
         }
     }
 }
